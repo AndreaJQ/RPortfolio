@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RPortfolio/static/css/main.3e45d87a.css",
+    "main.js": "/RPortfolio/static/js/main.50d02008.js",
+    "static/media/fotoPerfil.png": "/RPortfolio/static/media/fotoPerfil.e3a0e055389c938bb7ed.png",
+    "static/media/pdf.ico": "/RPortfolio/static/media/pdf.010185f10b53330882bb.ico",
+    "static/media/whatsapp.png": "/RPortfolio/static/media/whatsapp.48ce3cae56dbf5295190.png",
+    "static/media/java.png": "/RPortfolio/static/media/java.b2ab701f0b6ed65d747f.png",
+    "static/media/listening.png": "/RPortfolio/static/media/listening.aaa4063ac67ecbce803d.png",
+    "static/media/mysql.webp": "/RPortfolio/static/media/mysql.b8c330596ac4c90d4154.webp",
+    "static/media/spring.svg": "/RPortfolio/static/media/spring.1d88a919e86f544b396749902d12d991.svg",
+    "index.html": "/RPortfolio/index.html",
+    "main.3e45d87a.css.map": "/RPortfolio/static/css/main.3e45d87a.css.map",
+    "main.50d02008.js.map": "/RPortfolio/static/js/main.50d02008.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e45d87a.css",
+    "static/js/main.50d02008.js"
+  ]
+}
