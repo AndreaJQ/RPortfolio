@@ -1,0 +1,40 @@
+.tools{
+    padding: 20px, 20px, 20px, 20px;
+    box-shadow: 0 8px 12px 0 rgba( 31, 38, 135, 0.37); 
+}
+.tools:hover{
+    background-color: rgb(232, 240, 247);
+}
+
+.tools__box{
+    border-color: #173e4e;
+    transition: 0.5s;
+}
+.tools__line{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    
+}
+
+.tools__img{
+    width: 60px;
+    height: 60px;
+}
+
+.tools__name{
+    color: #173e4e;   
+    box-shadow: 0 8px 12px 0 rgba( 31, 38, 135, 0.37);
+}
+
+.tools:hover{
+    background-color: rgb(232, 240, 247);
+    border: 1px solid rgba( 255, 255, 255, 0.18);
+}
+
+.tools__box:hover{
+    transform: scale(1.5);
+   
+}
+

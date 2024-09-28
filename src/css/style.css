@@ -1,0 +1,54 @@
+body {
+    box-sizing: border-box;
+    background-color: rgb(205, 225, 235) ;
+   /* font-family: 'Arial Round';*/
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+
+li{
+    list-style: none;
+    text-align: -webkit-match-parent;
+    
+}
+ul{
+    list-style: none;
+}
+
+h3{
+    font-size: 40px;
+    color:  #173e4e;
+    text-align: center;
+    transition: 1.5s;
+}
+h3:hover{
+    transform: scale(1.2);
+}
+
+/*SKILLS*/
+  
+
+
+
+
+    /*FOOTER*/
+.footer{
+    text-align: center;
+    }
+
+
+
+
+
+
+/*Tablet*/
+@media (min-width: 768px) {
+    
+
+}
+
+/*Mobile*/
+@media (min-width: 425px) {
+  
+}

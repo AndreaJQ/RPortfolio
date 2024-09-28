@@ -1,0 +1,86 @@
+.perfil:hover{
+    background-color: rgb(232, 240, 247);
+}
+.perfil{
+    padding-bottom:20px;
+    display: flex;
+	flex-wrap: wrap;
+}
+.foto__perfil{
+    width: 300px;
+
+    border-radius: 50%;
+}
+
+.title__div{
+    padding-left: 20px;
+    padding-top: 40px;
+    display: flex;
+    flex-wrap:nowrap;
+
+}
+.title__bio{
+    padding-top: 50px;
+    padding-left:20px ;
+    color: #173e4e;
+    
+}
+
+.title__subsection{
+    padding-left:20px ;
+    color:  #173e4e;;
+}
+
+.title__network{
+    filter: opacity(0.7) drop-shadow(0 0 0#173e4e);
+    display: flex; 
+    
+}
+.hidden{
+    text-align: center;
+    display: none;
+}
+
+.iconolink:hover{
+    transform: scale(1.2);
+}
+.iconolink:hover +.hidden{
+    display: block;
+}
+
+.linksredes{
+    padding-top: 30px;
+}
+
+.about__paragraph{
+    font-size: 20px;
+    color:rgb(205, 225, 235);
+    padding: 30px;
+    background-color:#173e4e;
+    margin-left: 2em;
+    margin-right: 2em;
+    border-radius: 5% ;
+    border-color: #3a7c96;
+    border-style:outset;
+    text-align: center;
+    transition: 3s;
+    display: flex;
+	flex-wrap: wrap;
+}
+
+.aboutme{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+	flex-wrap: wrap;
+}
+.about__container:hover{
+    background-color: rgb(232, 240, 247);
+}
+.about__paragraph:hover{
+   transform: scale(1.1);
+}
+.iconolink{
+    width:40px;
+    height:40px;
+}

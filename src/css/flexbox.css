@@ -1,0 +1,271 @@
+/*HEADER*/
+
+.headerPrincipal .container{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+}
+.headerPrincipal-nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+/*ABOUT*/
+.title__div{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.about__tittle{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.about__paragraph{
+    margin-left: 2em;
+    margin-right: 2em;
+    display: flex;
+	flex-wrap: wrap;
+}
+.title__network{
+    display: flex;
+   
+    justify-content: space-around;
+
+}
+.hiddenList{
+    display: flex;
+    justify-content: space-around;
+}
+.linksredes{
+    display:flex;
+    align-items: center;
+
+}
+
+/*SKILLS*/
+.skills__line{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-flow:wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+
+
+li.skills__line{
+    align-items: center;
+}
+.skills__box{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+/*TOOLS*/
+.tools{
+    display: flex;
+    flex-direction: column;
+}
+.tools__line{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-flow:wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+
+
+li.tools__line{
+    text-align: center;
+}
+
+div.tools__box{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+   }
+
+
+/*HOBBIES*/
+
+.hobbies__line{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+    
+}
+
+
+/*ACADEMIC*/
+.academic__courses{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+    flex-wrap:wrap;
+ 
+}
+.card__content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+}
+
+
+/*CONTACT*/
+
+.formcontato--esquerda{
+display: flex;
+justify-content:center;
+flex-wrap: wrap;
+}
+
+
+
+.formcontato__form{
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+gap: 10px ;
+}
+
+/*FOOTER*/
+
+.footer-nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer__links{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+}
+
+.footer__rodape{
+display:contents;
+justify-content: center;
+}
+
+/*RESPONSIVE*/
+/*Tablet*/
+@media (min-width: 768px) {
+
+}
+
+/*Mobile*/
+@media (min-width: 300px) {
+    .headerPrincipal .container{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+     }
+     .headerPrincipal-nav{
+         
+         flex-wrap: wrap;
+     }
+    
+     /*ABOUT*/
+    .aboutMe{
+        flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    }
+    /*SKILLS*/
+
+ 
+    
+    /*TOOLS*/
+    .tools {
+    }
+    /*HOBBIES*/
+    .hobbies {
+    
+    
+
+    }
+    /*PROJECTS*/
+    .xp{
+    }
+    /*FORMACION*/
+    
+    
+     /*FOOTER*/
+    
+     .footer-nav{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        justify-content: center;
+    }
+}
+
+
+@media (max-width:780px) {
+/*HEADER*/
+.headerPrincipal .container{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+ }
+ .headerPrincipal-nav{
+     flex-wrap: wrap;
+ }
+
+ /*ABOUT*/
+.aboutMe{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+/*SKILLS*/
+
+
+/*TOOLS*/
+.tools {
+}
+/*HOBBIES*/
+.hobbies {
+}
+/*PROJECTS*/
+.xp{
+}
+/*FORMACION*/
+
+
+ /*FOOTER*/
+
+.footer-nav{
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: center;
+}
+}
+
+
+
