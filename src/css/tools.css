@@ -9,13 +9,28 @@
 .tools__box{
     border-color: #173e4e;
     transition: 0.5s;
+    display: flex;
+   flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 80px;
+    padding-right: 80px;
 }
+.tools__box1{
+    border-color: #173e4e;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+  
+  
+}
+
 .tools__line{
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 30px;
     margin-bottom: 100px;
-    
+    align-items: center;
 }
 
 .tools__img{

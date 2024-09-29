@@ -80,7 +80,6 @@ li.skills__line{
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    justify-content: space-evenly;
     flex-flow:wrap;
     display: flex;
     flex-direction: row;
@@ -96,7 +95,7 @@ li.tools__line{
 div.tools__box{
     display: flex;
     align-items: center;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
    }
 
