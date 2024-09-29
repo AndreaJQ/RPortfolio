@@ -39,6 +39,7 @@ function ProjectsList() {
       }
 
   return (
+    <section>
     <div className='projects'>
         <h3 class="hobbies__title">Projects</h3>
 
@@ -73,6 +74,7 @@ function ProjectsList() {
       
     </div>
     </div>
+    </section>
   )
 }
 
