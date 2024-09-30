@@ -17,7 +17,6 @@ import Projects from './components/Projects.js';
 function App() {
   return (
     <div className="App">
-   
       <Header/>
       <About1/>
       <Skills/>

@@ -53,7 +53,8 @@ function ProjectsList() {
                     {
                         projectData.map((item)=> {
                             return <li key={item.id}>
-                                <img src={item.imgUrl} width={600} height={380}/>
+                              <a href={item.link} >
+                                <img src={item.imgUrl} width={600} height={380}/></a>
                             </li>
                         })
                     }
