@@ -10,7 +10,7 @@ function Footer() {
             <a class="headerPrincipal-nav-link" href="#skills">Skills</a>
             <a class="headerPrincipal-nav-link" href="#hobbies">Hobbies</a>
             <a class="headerPrincipal-nav-link" href="#formacion">Education</a>
-            <a class="headerPrincipal-nav-link" href="#xp">Proyects</a>
+            <a class="headerPrincipal-nav-link" href="#projects">Projects</a>
             <a class="headerPrincipal-nav-link" href="mailto:andreajalilq@gmail.com">Contact </a>
             
          </nav>

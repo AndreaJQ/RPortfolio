@@ -40,11 +40,11 @@ function ProjectsList() {
 
   return (
     <section>
-    <div className='projects'>
+    <div className='projects' id="projects">
         <h3 class="hobbies__title">Projects</h3>
 
     
-    <div className='main-container'>
+    <div class='main-container'>
         <div className='slider-container'>
         <div className='leftArrow' onClick={() => scrollToImage('prev')}>&#10092;</div>
         <div className='rightArrow' onClick={() => scrollToImage('next')}>&#10093;</div>

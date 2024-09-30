@@ -1,9 +1,14 @@
+import encriptador from "../assets/images/encriptador.png"
+import ecommerce from "../assets/images/ecommerce.png"
+import eggJava from "../assets/images/proyectoFinalJavaEgg.png"
+import tareas from "../assets/images/proyectoTareas.png"
+
 export const projectData =[
-    { id: 1, imgUrl: "../assets/images/encriptador.png"},
+    { id: 1, imgUrl: encriptador},
 
-    { id: 2, imgUrl: "./images/ecommerce.png"},
+    { id: 2, imgUrl: ecommerce},
 
-    { id: 3, imgUrl: "./images/proyectoFinalJavaEgg.png"},
+    { id: 3, imgUrl: eggJava},
 
-    { id: 4, imgUrl: "./images/proyectoTareas.png"}
+    { id: 4, imgUrl: tareas}
 ]

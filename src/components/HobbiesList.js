@@ -24,7 +24,7 @@ function HobbiesList() {
   return (
     <div>
         
-      <div className='hobbies'>
+      <div className='hobbies' id="hobbies">
       <h3 class="hobbies__title">Hobbies</h3>
         <div className='hobbies__box'>
             <div className='hobbies__img2'>

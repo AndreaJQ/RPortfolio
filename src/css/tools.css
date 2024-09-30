@@ -12,8 +12,8 @@
     display: flex;
    flex-direction: row;
     flex-wrap: wrap;
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 .tools__box1{
     border-color: #173e4e;
