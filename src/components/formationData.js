@@ -10,5 +10,5 @@ export const formationData =[
 
     { id: 3,link: "https://www.aluracursos.com/cursos-online-front-end", imgUrl: alura , title:"Front End" , subtitle:"2023 - ALURA Latam"},
 
-    { id: 4,link: "https://www.argentina.gob.ar/sites/default/files/15._utn_-_testing.pdf", imgUrl: utn , title:"Testing MAnual y Ágil" , subtitle:"2023 - UTN Argentina Programa"}
+    { id: 4,link: "https://www.argentina.gob.ar/sites/default/files/15._utn_-_testing.pdf", imgUrl: utn , title:"Testing Manual y Ágil" , subtitle:"2023 - UTN Argentina Programa"}
 ]

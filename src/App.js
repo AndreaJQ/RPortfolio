@@ -1,5 +1,6 @@
 import './css/style.css';
 import './css/flexbox.css';
+import './css/normalize.css'
 import Header from './components/Header.js'
 import About1 from './components/About1.js';
 import Skills from './components/Skills';

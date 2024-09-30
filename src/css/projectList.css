@@ -15,6 +15,7 @@ img {
 .projects{
     padding-bottom: 40px;
     padding-top: 40px;
+    
 }
 .projects:hover{
     background-color: rgb(232, 240, 247);
@@ -25,6 +26,9 @@ img {
   width: 600px;
   height: 380px;
   margin: 0 auto;
+  max-width: 95vmin;
+	position: relative;
+	margin: auto;
 }
 
 /* Slider container */

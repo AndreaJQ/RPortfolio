@@ -16,7 +16,7 @@
     padding-left: 20px;
     padding-top: 40px;
     display: flex;
-    flex-wrap:nowrap;
+    flex-wrap:wrap;
 
 }
 .title__bio{
