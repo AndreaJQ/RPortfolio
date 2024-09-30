@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/RPortfolio/static/css/main.206ea642.css",
-    "main.js": "/RPortfolio/static/js/main.0d7972c8.js",
+    "main.css": "/RPortfolio/static/css/main.9396f05f.css",
+    "main.js": "/RPortfolio/static/js/main.e7348e53.js",
+    "static/media/proyectoFinalJavaEgg.png": "/RPortfolio/static/media/proyectoFinalJavaEgg.d13a704fe8b15cdda5dd.png",
     "static/media/fotoPerfil.png": "/RPortfolio/static/media/fotoPerfil.e3a0e055389c938bb7ed.png",
     "static/media/icloud.ico": "/RPortfolio/static/media/icloud.1a0534974a27e3dea4c9.ico",
     "static/media/pdf.ico": "/RPortfolio/static/media/pdf.010185f10b53330882bb.ico",
+    "static/media/unt.jpg": "/RPortfolio/static/media/unt.1cb921bf475f0bcb8cef.jpg",
+    "static/media/encriptador.png": "/RPortfolio/static/media/encriptador.7bd8b0ace63ad186fbcf.png",
     "static/media/final cut pro.png": "/RPortfolio/static/media/final cut pro.4d5ba40e686f9b90e1e7.png",
     "static/media/whatsapp.png": "/RPortfolio/static/media/whatsapp.48ce3cae56dbf5295190.png",
     "static/media/java.png": "/RPortfolio/static/media/java.b2ab701f0b6ed65d747f.png",
@@ -12,15 +15,18 @@
     "static/media/emule.png": "/RPortfolio/static/media/emule.ccee7a944b0306ac0108.png",
     "static/media/intellij.png": "/RPortfolio/static/media/intellij.2ea2978a2ec451d45da1.png",
     "static/media/Audacity.png": "/RPortfolio/static/media/Audacity.fa886fa7e49d2d726e45.png",
+    "static/media/proyectoTareas.png": "/RPortfolio/static/media/proyectoTareas.847aae511a540cda5aa6.png",
+    "static/media/ecommerce.png": "/RPortfolio/static/media/ecommerce.3d4a7a1b21993c843487.png",
     "static/media/vsc.png": "/RPortfolio/static/media/vsc.0ee879f9428773c84715.png",
+    "static/media/alura_logo.png": "/RPortfolio/static/media/alura_logo.b160e53aaa7b24f27889.png",
     "static/media/mysql.webp": "/RPortfolio/static/media/mysql.b8c330596ac4c90d4154.webp",
     "static/media/spring.svg": "/RPortfolio/static/media/spring.1d88a919e86f544b396749902d12d991.svg",
     "index.html": "/RPortfolio/index.html",
-    "main.206ea642.css.map": "/RPortfolio/static/css/main.206ea642.css.map",
-    "main.0d7972c8.js.map": "/RPortfolio/static/js/main.0d7972c8.js.map"
+    "main.9396f05f.css.map": "/RPortfolio/static/css/main.9396f05f.css.map",
+    "main.e7348e53.js.map": "/RPortfolio/static/js/main.e7348e53.js.map"
   },
   "entrypoints": [
-    "static/css/main.206ea642.css",
-    "static/js/main.0d7972c8.js"
+    "static/css/main.9396f05f.css",
+    "static/js/main.e7348e53.js"
   ]
 }
