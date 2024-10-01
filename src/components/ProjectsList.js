@@ -8,17 +8,15 @@ function ProjectsList() {
 
 
     useEffect( ()=> {
-        const listNode= listRef.current;
-        const imgNode= listNode.querySelectorAll("li>img")[currentIndex]
+        const listNode = listRef.current;
+        const imgNode = listNode.querySelectorAll("li > a > img")[currentIndex];
 
         if(imgNode){
             imgNode.scrollIntoView({
                 behavior:"smooth"
-            })
+            });
         }
-    },[currentIndex]
-
-    )
+    },[currentIndex]);
 
     const scrollToImage = (direction) => {
         if (direction === 'prev') {
@@ -52,9 +50,7 @@ function ProjectsList() {
                 <ul ref={listRef}>
                     {
                         projectData.map((item)=> {
-                            return <li key={item.id}>
-                              <a href={item.link} >
-                                <img src={item.imgUrl} width={600} height={380}/></a>
+                            return <li key={item.id}><a href={item.link} ><img src={item.imgUrl} width={600} height={380}/></a>
                             </li>
                         })
                     }
@@ -64,8 +60,7 @@ function ProjectsList() {
             <div className="dots-container">
           {
             projectData.map((_, idx) => (
-              <div key={idx}
-                className={`dot-container-item ${idx === currentIndex ? "active" : ""}`}
+              <div key={idx} className={`dot-container-item ${idx === currentIndex ? "active" : ""}`}
                 onClick={() => goToSlide(idx)}>
                 &#9865;
               </div>))
