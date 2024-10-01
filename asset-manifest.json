@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RPortfolio/static/css/main.8e6f4a4c.css",
-    "main.js": "/RPortfolio/static/js/main.1a1ce990.js",
+    "main.js": "/RPortfolio/static/js/main.41b4c7b2.js",
     "static/media/proyectoFinalJavaEgg.png": "/RPortfolio/static/media/proyectoFinalJavaEgg.d13a704fe8b15cdda5dd.png",
     "static/media/fotoPerfil.png": "/RPortfolio/static/media/fotoPerfil.e3a0e055389c938bb7ed.png",
     "static/media/icloud.ico": "/RPortfolio/static/media/icloud.1a0534974a27e3dea4c9.ico",
@@ -23,10 +23,10 @@
     "static/media/spring.svg": "/RPortfolio/static/media/spring.1d88a919e86f544b396749902d12d991.svg",
     "index.html": "/RPortfolio/index.html",
     "main.8e6f4a4c.css.map": "/RPortfolio/static/css/main.8e6f4a4c.css.map",
-    "main.1a1ce990.js.map": "/RPortfolio/static/js/main.1a1ce990.js.map"
+    "main.41b4c7b2.js.map": "/RPortfolio/static/js/main.41b4c7b2.js.map"
   },
   "entrypoints": [
     "static/css/main.8e6f4a4c.css",
-    "static/js/main.1a1ce990.js"
+    "static/js/main.41b4c7b2.js"
   ]
 }
